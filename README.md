@@ -13,3 +13,5 @@ composer dump-autoload
 - change FILESYSTEM_DRIVER to public in .env file
 - run ```php artisan config:cache ```
 - run ```php artisan migrate ```
+
+Run ```npm run prod ```
